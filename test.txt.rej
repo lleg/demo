@@ -1,0 +1,11 @@
+diff a/test.txt b/test.txt	(rejected hunks)
+@@ -1,5 +1,9 @@
+ +<<<<<<< HEAD
+++<<<<<<< HEAD
+ +'test 123' 
+ +=======
+ +'test 1234444444444444' 
+ +>>>>>>> parent of 630160d (omit2)
+++=======
++ 'test 12344444444444445555' 
+++>>>>>>> parent of 16be8dc (ь_сщьщ1)
